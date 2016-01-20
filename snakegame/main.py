@@ -29,15 +29,6 @@ appleimage = pygame.image.load('appleimage.jpg')
 
 clock = pygame.time.Clock()
 
-
-# f = open('max_score.txt','w')
-# max_score = f.read()
-# f.write(max(max_score,score))
-
-
-
-
-# font = pygame.font.SysFont(None, 25)
 smallfont = pygame.font.SysFont(None,30)
 midfont = pygame.font.SysFont(None,50)
 largefont = pygame.font.SysFont("comicsansms",80)
