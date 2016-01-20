@@ -1,0 +1,2 @@
+#SnakeGame
+This is SnakeGame developed using Pygame. The head of the snake and the shape of apple is made using Pinta in linux. To play this game clone this folder and run main.py. This game also includes max_score.txt file which saves the highest score.
